@@ -1,7 +1,7 @@
 {
   "greeting": "Heey",
   "name": "Eve",
-  "greetingText": "I like your name by the way! Even if you refused to tell me your Luo name",
+  "greetingText": "I like your name by the way!",
   "imagePath": "img/Eve.jpeg",
   "text1": "It is your Birthday by the way! ",
   "textInChatBox": "Happy Birthday to you! Happy bithday dear...",
@@ -15,9 +15,9 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishText": "PS: Happy Birthday Jaber as you turn a year older. You refused to tell me your age, but I know you will tell me in due course. KEEP SMILING!. ",
+  "wishText": "PS: Happy Birthday Jaber as you turn a year older <br> KEEP SMILING!. ",
   "wishHeading": "Happy Birthday.",
-  "outroText": "I wanted you to send me your best picture so that I can have it here, but you didn't. I had to improvise",
+  "outroText": "You refused to tell me your age and Luo name, <br> but I know you will tell me in the course time",
   "replayText": "Tap here to watch it again.",
   "outroSmiley": ":)"
 }
